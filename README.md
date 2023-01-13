@@ -1,13 +1,6 @@
-# This is my first factory-fresh repo :-)
+# my-first-repo
 
-A tiny repo to show in class..
+My first encounter with git and github
 
-Nothing much really...
-
-## How to cook posole:
-
-1. Take 1lb of pork
-2. cut it into 1/2" cubes
-3. Take a big soup pot
-4. Give up, go to a restaurant
-
+We can edit the REAMDE.md file in RStudio, 
+or in any other text editor
